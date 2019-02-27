@@ -2,7 +2,7 @@
 
 ### What was this take-home about?
 
-This repo contains work for a take-home project performed for a research position for an unnamed NBA franchise.
+This repo contains work for a take-home project performed for a research position for an unnamed NBA team.
 
 The main goal for this project was to build a command-line tool to estimate RAPM, both offensive and defensive ratings. The [original paper](http://www.sloansportsconference.com/wp-content/uploads/2015/09/joeSillSloanSportsPaperWithLogo.pdf) describing this model was provided to help get started.
 
