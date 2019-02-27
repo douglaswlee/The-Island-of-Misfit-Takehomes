@@ -38,4 +38,4 @@ Make sure to specify the (full) relative path of both the input file and output 
 
 An example (in Terminal) if the input file is rapm_data.csv and the output file is to be named rapm_estimates.csv and we specify a Ridge penalty of 1000:
 
-``./get_rapm_estimates.py -i path/to/rapm_data.csv -o rapm_estimates.csv -p 1000`
+`./get_rapm_estimates.py -i path/to/rapm_data.csv -o rapm_estimates.csv -p 1000`
