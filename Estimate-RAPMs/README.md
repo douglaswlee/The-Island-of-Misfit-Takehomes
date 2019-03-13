@@ -1,8 +1,10 @@
 # Estimating Regularized Adjusted Plus-Minus (RAPM)
 
-### What was this take-home about?
+### What is this?
 
-This repo contains work for a take-home project performed for a research position for an unnamed NBA team.
+This repo contains work for a take-home project performed for a research position for an unnamed NBA team. This project earned me a technical final round (I think) interview, which is as far as I progressed.
+
+### What was this take-home about?
 
 The main goal for this project was to build a command-line tool to estimate RAPM, both offensive and defensive ratings. The [original paper](http://www.sloansportsconference.com/wp-content/uploads/2015/09/joeSillSloanSportsPaperWithLogo.pdf) describing this model was provided to help get started.
 
@@ -17,7 +19,7 @@ The tool to be developed was to assume that any model implemented to estimate th
 
 ### About the Code
 
-My version of this tool is found in the script `get_rapm_estimates.py`, which was developed and tested on a MacBook Pro running macOS High Sierra v10.13.1 and `Python 3.6.4` (with `pandas 0.22.0` and `scikit-learn 0.19.1`).
+My version of this tool is found in the script **get_rapm_estimates.py**, which was developed and tested on a MacBook Pro running macOS High Sierra v10.13.1 and `Python 3.6.4` (with `pandas 0.22.0` and `scikit-learn 0.19.1`).
 
 Within this script, offensive and defensive RAPM for players are estimated as coefficients of a Ridge Regression model in a modification of the model described in original Sloan as well as [here](https://squared2020.com/2017/09/18/deep-dive-on-regularized-adjusted-plus-minus-i-introductory-example/) and [here](http://www.82games.com/ilardi2.htm). This implementation assumes a validated model with an already pre-specified penalty term which the user can optionally define (default = 2000), and does not filter the original data by a minimum number of possessions (or minutes) nor incorporate weighting of past data.
 
