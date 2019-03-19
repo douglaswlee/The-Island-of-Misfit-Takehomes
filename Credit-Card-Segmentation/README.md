@@ -8,7 +8,7 @@ This repo contains work for a take-home assignment for an education/online media
 
 For this assignment, I was asked to search for some datasets on Kaggle using a search term from a list of candidate terms (I chose 'customer segmentation') and ultimately identify a dataset to analyze a problem of my choosing.
 
-I decided to use a hypothetical (I think?) Credit Card customer dataset to identify/describe different customer segments and discuss potential actions for the provider to take with each segment. Much more detail describing my choices and workflow is given in the notebook included here: **Short Credit Card Segmentation Exercise with K Means.ipynb**.
+I decided to use a hypothetical (I think?) Credit Card customer dataset (**CC GENERAL.csv**) to identify/describe different customer segments and discuss potential actions for the provider to take with each segment. Much more detail describing my choices and workflow is given in the notebook included here: **Short Credit Card Segmentation Exercise with K Means.ipynb**.
 
 ### Additional Notes
 
