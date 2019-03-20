@@ -21,7 +21,7 @@ The tool to be developed was to assume that any model implemented to estimate th
 
 My version of this tool is found in the script **get_rapm_estimates.py**, which was developed and tested on a MacBook Pro running macOS High Sierra v10.13.1 and `Python 3.6.4` (with `pandas 0.22.0` and `scikit-learn 0.19.1`).
 
-Within this script, offensive and defensive RAPM for players are estimated as coefficients of a Ridge Regression model in a modification of the model described in original Sloan as well as [here](https://squared2020.com/2017/09/18/deep-dive-on-regularized-adjusted-plus-minus-i-introductory-example/) and [here](http://www.82games.com/ilardi2.htm). This implementation assumes a validated model with an already pre-specified penalty term which the user can optionally define (default = 2000), and does not filter the original data by a minimum number of possessions (or minutes) nor incorporate weighting of past data.
+Within this script, offensive and defensive RAPM for players are estimated as coefficients of a Ridge Regression model in a modification of the model described in the original Sloan paper as well as [here](https://squared2020.com/2017/09/18/deep-dive-on-regularized-adjusted-plus-minus-i-introductory-example/) and [here](http://www.82games.com/ilardi2.htm). This implementation assumes a validated model with an already pre-specified penalty term which the user can optionally define (default = 2000), and does not filter the original data by a minimum number of possessions (or minutes) nor incorporate weighting of past data.
 
 ### Using the Code
 To run this script:
