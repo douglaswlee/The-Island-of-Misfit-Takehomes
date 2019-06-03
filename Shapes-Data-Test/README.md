@@ -6,4 +6,4 @@ This repo contains work for a take-home assignment for a software company which 
 
 ### What was this take-home about?
 
-For this assignment, I was asked to use the provided dataset **Shapes.csv** to answer a series of questions which were mostly Exploratory Data Analysis (EDA) tasks. These questions and my answers are included in the notebook **Shapes Data Test.ipynb**.
+For this assignment, I was asked to use the provided dataset **Analyst Coding Test.csv** to answer a series of questions which were mostly Exploratory Data Analysis (EDA) tasks. These questions and my answers are included in the notebook **Shapes Data Test.ipynb**.
