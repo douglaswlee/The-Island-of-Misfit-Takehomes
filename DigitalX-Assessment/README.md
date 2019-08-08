@@ -16,3 +16,13 @@ Using the data in **fq_analytics_givt_test_data.csv**, 100,000 logs of individua
 4. Ad requests that show signs of browser/IP manipulation (e.g., request inconsistencies), implying that the true source of the traffic is being obscured through spoofing.
 
 More specifically, I was to judge how fraudulent each source's traffic was, along with an explanation of the type of fraud being committed and what to do with the source (eject from exchange or request chargebacks).
+
+### Notes
+
+Honestly, I don't think I did a particularly good job with this assignment, even if I advanced in the process. I wasn't all that familiar with the domain and spent some of time trying to familiarize myself with it instead of thinking about more formalized approaches and interesting feature engineering I could have done. 
+
+During my final round interview, I was asked about such approaches (especially with larger datasets where analyzing source-by-source would not be feasible) and really didn't have many better answers than simple [outlier detection methods using z-scores](https://www.itl.nist.gov/div898/handbook/eda/section3/eda35h.htm), even though I was aware the company used clustering methods. Here are a couple examples where I would have been better off recalling that the company used clustering:
+
+* In the simple EDA step where I looked at hourly activity from each source, if there were thousands of sources rather than just the ten here, I could use any clustering method on such data that may have identified clusters of sources with normal activity, the short extreme peaks as in Source A, or the constant activity in Sources E, F, H, and J. 
+
+* One could probably isolate cases such as Source F (where the traffic looks like it comes data center servers with suspicious domain/browser/IP distributions) or Source J (where the traffic seems split between mobile apps and regular websites but browsers are evenly distributed across both desktop and mobile browsers) with clustering that focuses less on activity of each source over time but instead over IP/domain/browser.
