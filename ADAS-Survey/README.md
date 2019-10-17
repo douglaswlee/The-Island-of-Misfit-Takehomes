@@ -21,8 +21,8 @@ across a wide range of 2018 makes and models. Using this data, I was asked to cr
 
 Presently, I have included the slide deck I created to describe my findings:
 
-* Keynote: **ADASSurveyAnalysis.key**
-* PDF: **ADASSurveyAnalysis.pdf**
+* [Keynote](ADASSurveyAnalysis.key)
+* [PDF](ADASSurveyAnalysis.pdf)
 
 I will be adding a Jupyter Notebook soon to detail the bulk of the work I did for this assignment, not just to illustrate my workflow here but also to have at least one place on my Github where I have example code snippets of common EDA and plotting operations in Python, pandas, matplotlib, etc. Also, may include some additional code just to work on developing interactive visualizations.
 
