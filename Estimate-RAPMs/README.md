@@ -1,8 +1,8 @@
-# Estimating Regularized Adjusted Plus-Minus (RAPM)
+# Estimating Regularized Adjusted Plus-Minus (RAPM) -- November 2018
 
 ### What is this?
 
-This repo contains work for a take-home project performed for a research position for an unnamed NBA team. This project earned me a technical final round (I think) interview, which is as far as I progressed.
+This repo contains work for a take-home project performed for a research position for an unnamed NBA team. This project was the first step in the interview process, and earned me a technical final round (I think) interview, which is as far as I progressed.
 
 ### What was this take-home about?
 
@@ -16,6 +16,10 @@ The tool I was asked to develop would write player-level offensive and defensive
 3. Any other parameter specifications that I thought would be necessary/useful -- but to provide default values when needed.
 
 The tool to be developed was to assume that any model implemented to estimate the offensive and defensive RAPM for each player was already validated, so no true machine learning modeling workflow was needed.
+
+### How long did you have to do this assignment?
+
+Initially 1 week, but wound up having a couple additional days to work on it since that week coincided with Thanksgiving weekend.
 
 ### About the Code
 
