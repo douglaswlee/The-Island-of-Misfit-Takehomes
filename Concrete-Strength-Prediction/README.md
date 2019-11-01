@@ -2,7 +2,7 @@
 
 ### What is this?
 
-This repo contains work for a take-home assignment for the NYC Department of Education (I am posting the exact name of the potential employer since part of this assigmment required posting it in a public Github repo). From completion of this assignment, I progressed to an on-site interview, and my status is still to be determined.
+This repo contains work for a take-home assignment for the NYC Department of Education (I am posting the exact name of the potential employer since part of this assigmment required posting it in a public Github repo). This assignment was the stage of the interview process following an initial phone screen. From completion of this assignment, I progressed to an on-site interview, and my status is still to be determined.
 
 ### What was this take-home about?
 
