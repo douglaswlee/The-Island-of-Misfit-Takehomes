@@ -14,5 +14,5 @@ For this assignment, I was asked to use the provided dataset **Analyst Coding Te
 
 ### Notes
 
-* I clearly misread question 2) as with respect to the area size of each shape as opposed to "the area size of each color".
+* I clearly misread question 2) as with respect to "the area size of each shape" as opposed to "the area size of each color".
 * My interpretation of quesiton 4) was: given that a shape is green, which shape is most likely?
