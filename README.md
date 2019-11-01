@@ -5,7 +5,7 @@ This repository is an ongoing archive of my work on take-home assignments over t
 For each assignment, I've taken care not to be too specific about the company or position, unless the assignment requested initial delivery in the form of a public Github repo. I have also only included data and my work, none of the actual documentation for the assignments is included with any of the assignments. In all cases, I've documented the following:
 
 * A description of the assigning company
-* The representative stage in the process of the assingment and the outcome
+* The representative stage in the process of the assignment and the outcome
 * As much detail about what the assignment asked for as is possible
 * How long I was given to complete the assignment
 * Some additional notes, if applicable. Usually my reflections on the assignment, especially stuff that I could have done better even if the ultimate outcome was "good," but also some more description of what the code does and how to use it in some cases (in case anyone wishes to use it?)
