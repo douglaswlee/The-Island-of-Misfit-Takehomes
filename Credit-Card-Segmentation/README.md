@@ -2,7 +2,7 @@
 
 ### What is this?
 
-This repo contains work for a take-home assignment for an education/online media company. From completion of this assignment, I progressed to a technical walkthrough-style video interview. Later, I had an on-site, mostly non-technical final round. That was as far as I progressed.
+This repo contains work for a take-home assignment for an education/online media company. This assignment was the stage in the interview process following an initial call with the hiring manager. From completion of this assignment, I progressed to a technical walkthrough-style video interview. Later, I had an on-site, mostly non-technical final round. That was as far as I progressed.
 
 ### What was this take-home about?
 
