@@ -14,4 +14,4 @@ None of these assignments were accompanied with explicit language forbidding any
 
 In the near future (perhaps), I will also be sharing work on some individual questions I've encountered in technical, whiteboarding, pair programming or HackerRank-style interviews and assessments (at least those that I can recall offhand).
 
-Finally, I've noticed the odd amount of traffic activity associated with this (and other!) repos of mine and am assuming for now it's not human. But if you are human and have found anything useful here, please drop me a line, it would actually pick me up.
+Finally, I've noticed the odd amount of traffic activity associated with this (and other!) repos of mine and am assuming for now it's not human. But if you are human and have found anything useful here, please drop me a line, I'd actually appreciate that!
