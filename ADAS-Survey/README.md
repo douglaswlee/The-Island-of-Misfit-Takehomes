@@ -2,7 +2,7 @@
 
 ### What is this?
 
-This repo contains work for a take-home assignment for a nonprofit publisher which performs research and investigative reporting in the service of consumers. I was not asked to continue in the interview process after completing this assignment.
+This repo contains work for a take-home assignment for a nonprofit publisher which performs research and investigative reporting in the service of consumers. This assignment was the first step in the interview process. I was not asked to continue to an actual interview after completing this assignment.
 
 ### What was this take-home about?
 
