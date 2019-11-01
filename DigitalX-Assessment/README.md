@@ -17,6 +17,10 @@ Using the data in **fq_analytics_givt_test_data.csv**, 100,000 logs of individua
 
 More specifically, I was to judge how fraudulent each source's traffic was, along with an explanation of the type of fraud being committed and what to do with the source (eject from exchange or request chargebacks).
 
+### How long did you have to do this assignment?
+
+48 hours.
+
 ### Notes
 
 Honestly, I don't think I did a particularly good job with this assignment, even if I advanced in the process. I wasn't all that familiar with the domain and spent some of time trying to familiarize myself with it instead of thinking about more formalized approaches and interesting feature engineering I could have done. 
