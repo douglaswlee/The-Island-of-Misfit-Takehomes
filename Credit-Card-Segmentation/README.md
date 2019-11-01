@@ -10,6 +10,10 @@ For this assignment, I was asked to search for some datasets on Kaggle using a s
 
 I decided to use a hypothetical (I think?) Credit Card customer dataset (**CC GENERAL.csv**) to identify/describe different customer segments and discuss potential actions for the provider to take with each segment. Much more detail describing my choices and workflow is given in the notebook included here: **Short Credit Card Segmentation Exercise with K Means.ipynb**.
 
+### How long did you have to do this assignment?
+
+I was given a fair amount of latitude with this one -- was told to do it at my convenience but not to take too long. I submitted the assignment about a week after it was assigned, although I actually worked on it for parts of 2 days or so.
+
 ### Additional Notes
 
 Although this particular assignment helped me advance in the process, there are areas where the analysis could very easily be improved:
