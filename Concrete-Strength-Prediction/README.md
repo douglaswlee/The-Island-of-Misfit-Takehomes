@@ -2,11 +2,15 @@
 
 ### What is this?
 
-This repo contains work for a take-home assignment for the NYC Department of Education (I am posting the exact name of the potential employer since part of this assigmment required posting it in a public Github repo). From completion of this assignment, I progressed to an on-site interview, which was as far as I progressed.
+This repo contains work for a take-home assignment for the NYC Department of Education (I am posting the exact name of the potential employer since part of this assigmment required posting it in a public Github repo). From completion of this assignment, I progressed to an on-site interview, and my status is still to be determined.
 
 ### What was this take-home about?
 
 For this assignment, I was asked to download the [Concrete Slump Test Data Set](https://archive.ics.uci.edu/ml/datasets/Concrete+Slump+Test) from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php) and answer a series of questions that are included in the notebook **Concrete_Strength_Prediction.ipynb**.
+
+### How long did you have to do this assignment?
+
+24 hours.
 
 ### Additional Notes
 
