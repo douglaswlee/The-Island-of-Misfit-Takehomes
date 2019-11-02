@@ -23,7 +23,7 @@ More specifically, I was to judge how fraudulent each source's traffic was, alon
 
 ### Notes
 
-Honestly, I don't think I did a particularly good job with this assignment, even if I advanced in the process. I wasn't all that familiar with the domain and spent some of time trying to familiarize myself with it instead of thinking about more formalized approaches and interesting feature engineering I could have done. 
+Honestly, I don't think I did a particularly good job with this assignment, even if I advanced in the process. I wasn't all that familiar with the domain and spent a good bit of time trying to familiarize myself with it instead of thinking about more formalized approaches and interesting feature engineering I could have done. 
 
 During my final round interview, I was asked about such approaches (especially with larger datasets where analyzing source-by-source would not be feasible) and really didn't have many better answers than simple [outlier detection methods using z-scores](https://www.itl.nist.gov/div898/handbook/eda/section3/eda35h.htm), even though I was aware the company used clustering methods. Here are a couple examples where I would have been better off recalling that the company used clustering:
 
