@@ -24,7 +24,7 @@ I have included the slide deck I created to describe my findings:
 * [Keynote](ADASSurveyAnalysis.key)
 * [PDF](ADASSurveyAnalysis.pdf)
 
-The notebook [ADASSurveyAnalysis.ipynb]{ADASSurveyAnalysis.ipynb} provides the code used to create the slide decks for this assignment (Note: There was no requirement to submit this code). Perhaps eventually I will be including some additional code just to work on developing interactive visualizations.
+The notebook [ADASSurveyAnalysis.ipynb](ADASSurveyAnalysis.ipynb) provides the code used to create the slide decks for this assignment (Note: There was no requirement to submit this code). Perhaps eventually I will be including some additional code just to work on developing interactive visualizations.
 
 ### How long did you have to do this assignment?
 
